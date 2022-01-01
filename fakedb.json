@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 3,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 4,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 5,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 6,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 7,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 8,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 9,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 10,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 11,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 12,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 13,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 14,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 15,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 16,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 17,
+      "title": "bayu",
+      "author": "write test"
+    },
+    {
+      "id": 18,
+      "title": "bayu",
+      "author": "write test"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
